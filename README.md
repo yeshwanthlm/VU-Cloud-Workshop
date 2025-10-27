@@ -59,3 +59,12 @@ cd /root/catkin_ws/src/my_robot_pkg/python_scripts
 roscore
 roslaunch rosbridge_server rosbridge_websocket.launch
 ```
+
+
+Presentation Deck: [AWS Cloud + ROS  Workshop.pdf](https://github.com/user-attachments/files/23170098/AWS.Cloud.%2B.ROS.Workshop.pdf)
+
+Connect with me:
+Follow us on LinkedIn: https://www.linkedin.com/in/yeshwanth-l-m/
+YouTube: https://www.youtube.com/@TechWithYeshwanth/videos
+Follow our blog here: https://dev.to/yeshwanthlm/
+Follow us on Instagram: https://www.instagram.com/techwithyeshwanth/
