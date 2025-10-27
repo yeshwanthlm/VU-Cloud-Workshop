@@ -1,5 +1,7 @@
 # VU-Cloud-Workshop
 
+Step 0: Login to AWS Console: https://console.aws.amazon.com/console/
+
 Step 1: Create EC2 Server with the Userdata Script:
 
 ```sh
